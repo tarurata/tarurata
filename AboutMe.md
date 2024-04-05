@@ -4,7 +4,7 @@
 I am a Backend Developer and Digital Analytics Engineer with a deep expertise in Google Analytics (GA), Google Tag Manager (GTM), and a burgeoning passion for cybersecurity. Currently advancing my cybersecurity knowledge at the Canadian College of Technology and Business (CCTB), I am exploring various attack methodologies and defense mechanisms.
 
 ## 📊GA/GTM Expertise:
-At DMM.com, I led the management of a complex Google Tag Manager ecosystem with over 40 containers tailored to the unique needs of different services. My responsibilities included upgrading Google Analytics, configuring various tags, ensuring data integrity, and building a server-side GTM to avoid ITP, all within a scrum team.
+At DMM.com, I led the management of a complex Google Tag Manager ecosystem with over 40 containers tailored to the unique needs of different services. My responsibilities included upgrading Google Analytics, configuring various tags, ensuring data integrity, automating GA/GTM, and building a server-side GTM to avoid ITP, all within a scrum team.
 Including versioning up GA, various tags configuration, making sure data integrity and building server-side gtm for avoiding ITP in scrum team.
 
 ## 💻Backend Engineering:
