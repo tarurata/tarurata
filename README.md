@@ -22,3 +22,4 @@ My backend development expertise lies in PHP and Python, specifically with Larav
 ## 👾Cybersecurity Focus:
 My current studies at CCTB are enriching my understanding of cybersecurity, focusing on attack vectors and defense strategies. This education is empowering me to implement advanced security measures, conduct thorough vulnerability assessments, and advocate for secure coding practices across all projects.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarurata&layout=compact&theme=tokyonight)
