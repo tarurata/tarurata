@@ -2,7 +2,7 @@
 I am a Full Stack Developer with a deep expertise in Google Analytics (GA), Google Tag Manager (GTM), and a burgeoning passion for cybersecurity. Currently advancing my cybersecurity knowledge at the Canadian College of Technology and Business (CCTB), I am exploring various attack methodologies and defense mechanisms.
 
 
-## 🧠 Skills
+## 🧠Skills
 
 | Skill            | Level               |
 |------------------|---------------------|
@@ -22,4 +22,5 @@ My backend development expertise lies in PHP and Python, specifically with Larav
 ## 👾Cybersecurity Focus:
 My current studies at CCTB are enriching my understanding of cybersecurity, focusing on attack vectors and defense strategies. This education is empowering me to implement advanced security measures, conduct thorough vulnerability assessments, and advocate for secure coding practices across all projects.
 
+## 🗣️Language Stats📊
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tarurata&layout=compact&theme=tokyonight)
